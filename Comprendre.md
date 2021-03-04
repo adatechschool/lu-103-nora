@@ -6,7 +6,6 @@
 
 Le principe de base d'une structure de données, c'est de stocker des éléments auxquels le programmeur veut pouvoir accéder plus tard. On appelle les différentes utilisations possibles de la structure de données des opérations (ex : la lecture, l'insertion, la suppression...) 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/59813deb-56b0-4d4f-b137-52d5e208e7e8/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/59813deb-56b0-4d4f-b137-52d5e208e7e8/Untitled.png)
 
 **Arrays - Lists - Vectors**
 
@@ -120,19 +119,16 @@ En tant que programmeurs, on passe notre temps à se demander :
 
 Big-0 notation : regarde le pire scénario, aide ainsi à quantifier la performance 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/02642adf-394d-4318-8b7b-6b2a425beabf/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/02642adf-394d-4318-8b7b-6b2a425beabf/Untitled.png)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3f1d09bf-4377-43d3-98ee-3650f2e1fc98/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3f1d09bf-4377-43d3-98ee-3650f2e1fc98/Untitled.png)
 
 **Static and dynamic array** 
 
 - Static array : fixed-length container containing n elements indexable from the range [0, n-1]
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b71a3c48-5a2c-4930-a77c-7c793bc8591e/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b71a3c48-5a2c-4930-a77c-7c793bc8591e/Untitled.png)
 
 - Dynamic array : can grow and shrink in size
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/098abd07-bfb4-434c-9ad9-e103d6b3cb66/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/098abd07-bfb4-434c-9ad9-e103d6b3cb66/Untitled.png)
+
 
 **Différence tableau et liste** 
 
